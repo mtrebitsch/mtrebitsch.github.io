@@ -2,7 +2,7 @@ Curriculum Vitæ
 ###############
 :slug: cv
 
-This curriculum is also available in `PDF <{filename}/pdf/cven.pdf>`_.
+This curriculum is also available in `PDF <{filename}/pdf/cv.pdf>`_.
 
 Research interests
 ==================
@@ -57,7 +57,7 @@ June – July 2010
   
 Outreach
 ========
-I have been involved in various events, mainly hosted by the Observatoire de Lyon.
+I have been involved in various outreach events, organised either by the Observatoire de Lyon or by the IAP.
 
 * "Fête de la Science" (national science festival)
 * European Heritage Days at the Observatoire de Lyon
@@ -67,9 +67,13 @@ Publications
 ============
 Articles
 --------
-High-redshift galaxies and black holes in the eyes of JWST: a population synthesis model from infrared to X-rays
-    | Marta Volonteri, Amy Reines, Hakim Atek, Danien P. Stark and *Maxime Trebitsch*
-    | Accepted to the *Astrophysical Journal* (`arXiv: 1704.00753 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017arXiv170400753V&link_type=ABSTRACT>`_)
+Escape of ionizing radiation from high-redshift dwarf galaxies: role of AGN feedback
+    | *Maxime Trebitsch*, Marta Volonteri, Yohan Dubois, Piero Madau
+    | `Monthly Notices of the Royal Astronomical Society, vol 478, Issue 4, 21 August 2018 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2018MNRAS.478.5607T&link_type=ABSTRACT>`_
+
+High-redshift Galaxies and Black Holes Detectable with the JWST: A Population Synthesis Model from Infrared to X-Rays
+    | Marta Volonteri, Amy Reines, Hakim Atek, Daniel P. Stark and *Maxime Trebitsch*
+    | `The Astrophysical Journal, vol 949, Number 2 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017ApJ...849..155V&link_type=ABSTRACT>`_
 
 Fluctuating feedback-regulated escape fraction of ionizing radiation in low-mass, high-redshift galaxies
     | *Maxime Trebitsch*, Jérémy Blaizot, Joakim Rosdahl, Julien Devriendt and Adrianne Slyz
@@ -85,6 +89,10 @@ Ultralight axions: Degeneracies with massive neutrinos and forecasts for future 
 
 Conference proceedings
 ----------------------
+Effect Of Feedback On The Escape Of Ionizing Radiation From High-Z Galaxies
+    | *Maxime Trebitsch*, Jérémy Blaizot, Joakim Rosdahl, Julien Devriendt and Adrianne Slyz
+    | `Galaxy Evolution Across Time, Proceedings of a conference held 12-16 June, 2017 in Paris <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017geat.confE..49T&link_type=ABSTRACT`_
+
 Feedback regulated escape of ionising radiation from high redshift galaxies
     | *Maxime Trebitsch* and Jérémy Blaizot
     | `SF2A-2016: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp.407-410 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016sf2a.conf..407T&link_type=ABSTRACT>`_
@@ -103,17 +111,27 @@ Conferences
 ===========
 Talks
 -----
-* Do AGNs enhance the escape of ionizing radiation from high redshift dwarf galaxies?; *YAGN Meeting*, 2017, Teruel
-* Do AGNs enhance the escape of ionizing radiation from high redshift dwarf galaxies?; *RAMSES User Meeting*, 2017, Nice
-* Modeling the sources of reionization; *ICAP Seminar*, 2016, Paris
-* Feedback regulated escape of ionising photons from high redshift galaxies; *RAMSES User Meeting*, 2016, Paris
-* Feedback-regulated escape of ionising radiation from high redshift galaxies; *Journées SF2A (French Astronomy Meeting)*, 2016, Lyon.
-* Escape of ionising radiation from the first galaxies; *Galaxy Evolution Seminar*, 2016, Oxford.
-* Escape of ionising radiation from the first galaxies; *RAMSES User Meeting*, 2015, Oxford.
-* Galaxies reionising the universe; *Journées SF2A (French Astronomy Meeting)*, 2015, Toulouse.
+* RAMSES User Meeting, 2018, Lyon
+* *Escape of Lyman radiation from galactic labyrinths*, 2018, Crete
+* *Massive black holes in evolving galaxies: from quasars to quiescence*, 34th IAP Conference, 2018, Paris
+* *Rise & Shine: galaxies in the Epoch of Reionization*, 2018, Strasbourg
+* *Symposium S3*, European Week of Astronomy and Space Science, 2018, Liverpool
+* YAGN Meeting, 2017, Teruel
+* RAMSES User Meeting, 2017, Nice
+* RAMSES User Meeting, 2016, Paris
+* Journées SF2A (French Astronomy Meeting), 2016, Lyon.
+* RAMSES User Meeting, 2015, Oxford.
+* Journées SF2A (French Astronomy Meeting), 2015, Toulouse.
+
+Seminars
+--------
+* ICAP Seminar, 2016, Paris
+* Galaxy Evolution Seminar, 2016, Oxford.
+
 
 Posters
 -------
+* `Escape of ionizing radiation from high-redshift dwarf galaxies: role of AGN feedback <{filename}/pdf/201801saasfee.pdf>`_; *48 th Saas-Fee Winter School*, 2018, Saas-Fee
 * `Effect of feedback on the escape of ionizing radiation from high-z galaxies <{filename}/pdf/201706prague.pdf>`_; *EWASS*, 2017, Prague.
 * `Effect of feedback on the escape of ionizing radiation from high-z galaxies <{filename}/pdf/201706prague.pdf>`_; *Galaxy Evolution Across Time*, 2017, Paris.
 * `Galaxies reionising the universe: light from the first objects <{filename}/pdf/201506groningen.pdf>`_; *Exploring the Universe with JWST*, 2015, ESTEC.
