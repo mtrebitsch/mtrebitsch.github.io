@@ -61,7 +61,7 @@ To study this, I run simulations focusing on small haloes (10\ :sup:`8` or 10\ :
 
 .. figure:: {filename}/img/fescsfrout.svg
    :alt: Evolution of the star formation rate, gas outflow rate and escape fraction
-   :align: right
+   :align: left
    :figwidth: 40%
    :width: 95%
 
