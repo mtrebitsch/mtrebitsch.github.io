@@ -91,7 +91,7 @@ Conference proceedings
 ----------------------
 Effect Of Feedback On The Escape Of Ionizing Radiation From High-Z Galaxies
     | *Maxime Trebitsch*, Jérémy Blaizot, Joakim Rosdahl, Julien Devriendt and Adrianne Slyz
-    | `Galaxy Evolution Across Time, Proceedings of a conference held 12-16 June, 2017 in Paris <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017geat.confE..49T&link_type=ABSTRACT`_
+    | `Galaxy Evolution Across Time, Proceedings of a conference held 12-16 June, 2017 in Paris <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017geat.confE..49T&link_type=ABSTRACT>`_
 
 Feedback regulated escape of ionising radiation from high redshift galaxies
     | *Maxime Trebitsch* and Jérémy Blaizot
