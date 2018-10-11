@@ -12,13 +12,13 @@
 <link rel="canonical" href="./research.html">
 
         <meta name="author" content="Maxime Trebitsch" />
-        <meta name="description" content="The goal of my current research is to understand the properties of galaxies during the first few billion years of the Universe. Understanding the sources of reionization The Epoch of Reionsation Shortly after the Big Bang, the gas in the universe was cool enough for electrons and protons to form …" />
+        <meta name="description" content="The goal of my current research is to understand the properties of galaxies during the first few billion years of the Universe. Modeling galaxy formation with RAMSES Hydrogen ionized fraction around z ~ 6 in a 109 M☉ halo. White is neutral, black is ionized. I use the AMR code …" />
 
     <meta property="og:site_name" content="Maxime Trebitsch" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Research"/>
     <meta property="og:url" content="./research.html"/>
-    <meta property="og:description" content="The goal of my current research is to understand the properties of galaxies during the first few billion years of the Universe. Understanding the sources of reionization The Epoch of Reionsation Shortly after the Big Bang, the gas in the universe was cool enough for electrons and protons to form …" />
+    <meta property="og:description" content="The goal of my current research is to understand the properties of galaxies during the first few billion years of the Universe. Modeling galaxy formation with RAMSES Hydrogen ionized fraction around z ~ 6 in a 109 M☉ halo. White is neutral, black is ionized. I use the AMR code …" />
 
 
 
@@ -71,19 +71,26 @@ Maxime Trebitsch            </a>
         
         <div class="entry-content">
             <p>The goal of my current research is to understand the properties of galaxies during the first few billion years of the&nbsp;Universe.</p>
-<div class="section" id="understanding-the-sources-of-reionization">
-<h2>Understanding the sources of&nbsp;reionization</h2>
+<div class="section" id="modeling-galaxy-formation-with-ramses">
+<h2>Modeling galaxy formation with <span class="caps">RAMSES</span></h2>
+<div class="figure align-right" style="width: 40%">
+<img alt="Hydrogen ionized fraction in a typical halo" src="./img/z9687xHI.png" style="width: 95%;" />
+<p class="caption">Hydrogen ionized fraction around <em>z</em> ~ 6 in a 10<sup>9</sup> M<sub>☉</sub> halo. White is neutral, black is&nbsp;ionized.</p>
+</div>
+<p>I use the <abbr title="Adaptive Mesh Refinement"><span class="caps">AMR</span></abbr> code <span class="caps">RAMSES</span> to model and investigate the processes that govern galaxy formation. <span class="caps">RAMSES</span> is a grid-based hydrodynamical code that follows the evolution of astrophysical fluids in a cosmological context. This allows to compute at the same time the evolution of dark matter (<span class="caps">DM</span>), gas and stars. Since 2013, <span class="caps">RAMSES</span> features a module for radiative transfer that can be used to follow altogether the propagation of ionizing radiation the detailed ionization state of the hydrogen and helium around galaxies in&nbsp;simulations.</p>
+<p>For most of my work, I perform numerical simulations of individual resolved galaxies using the <em>zoom</em> technique. The idea is to simulate a larger cosmological volume at fairly low resolution and use extra computational power around a region of interest to reach very high resolution. This makes it possible to resolve fine structures in galaxies while still capturing the large scale structure around&nbsp;them.</p>
+<p>However, even with this technique, we cannot completely resolve the formation (or even worse, the internal dynamics) of stars, so we have to use <em>subgrid models</em> to model the small scale processes, like star formation, metal ejection by supernovae or energetic events like type <span class="caps">II</span> supernovae. It is crucial to take these mechanisms into account if we want to model correctly the interstellar medium in&nbsp;galaxies.</p>
+</div>
 <div class="section" id="the-epoch-of-reionsation">
-<h3>The Epoch of&nbsp;Reionsation</h3>
+<h2>The Epoch of&nbsp;Reionsation</h2>
 <div class="figure align-left" style="width: 40%">
 <img alt="The Epoch of Reionization in the universe timeline" src="./img/reion_diagram.jpg" style="width: 95%;" />
 </div>
 <p>Shortly after the Big Bang, the gas in the universe was cool enough for electrons and protons to form hydrogen and helium atoms, and all the gas became&nbsp;neutral.</p>
 <p>When the first radiative sources (most likely the first stars and galaxies) started to form, around <em>z</em> ~ 15 &#8212; 20, the energetic radiation emitted by those sources started to ionize the neutral hydrogen around them, carving ionized bubbles in the intergalactic medium (<span class="caps">IGM</span>). As the primeval galaxies grow and assemble their stars, these ionized regions will grow and overlap, eventually filling the whole universe around <em>z</em> ~ 6. This transition epoch is called the <em>Epoch of Reionization</em>&nbsp;(EoR).</p>
-<!-- say something about the observational evidences -->
 <p>Studying this phase transition is crucial to investigate the history of the universe, and this require to understand the formation of the first objects. These high-<em>z</em> objects are very difficult to observe with the current generation of telescopes, but the upcoming James Webb Space Telescope (<span class="caps">JWST</span>) and the Square Kilometer Array (<span class="caps">SKA</span>) are promising future instruments that are going to see these first galaxies and the distribution of neutral gas around&nbsp;them.</p>
 <div class="section" id="the-reionization-process">
-<h4>The reionization&nbsp;process</h4>
+<h3>The reionization&nbsp;process</h3>
 <p>There are several issues that need to be addressed in order to shed some light on the detailed history of reionization, with perhaps the most important being: what are the ionizing sources? While the current scenario favours the idea that galaxies are responsible for the reionization of the universe, the ionizing budget of the EoR is still poorly&nbsp;constrained.</p>
 <ul class="simple">
 <li>The first question is to assess if the galaxies produce enough hydrogen-ionizing photons to reionize the universe and then to sustain this ionized state? Since the radiation is mostly produced by hot, massive, short-lived stars, this raise the question of the star formation in the first galaxies, and for instance the impact of the stellar radiation on the galactic scale star&nbsp;formation.</li>
@@ -91,22 +98,11 @@ Maxime Trebitsch            </a>
 </ul>
 <p>These are the two key questions to understand the ionizing budget of the universe during the EoR, and form the core of my&nbsp;research.</p>
 </div>
-</div>
-<div class="section" id="modeling-galaxy-formation-with-ramses">
-<h3>Modeling galaxy formation with <span class="caps">RAMSES</span></h3>
-<div class="figure align-right" style="width: 40%">
-<img alt="Hydrogen ionized fraction in a typical halo" src="./img/z9687xHI.png" style="width: 95%;" />
-<p class="caption">Hydrogen ionized fraction around <em>z</em> ~ 6 in a 10<sup>9</sup> M<sub>☉</sub> halo. White is neutral, black is&nbsp;ionized.</p>
-</div>
-<p>I use the <abbr title="Adaptive Mesh Refinement"><span class="caps">AMR</span></abbr> code <span class="caps">RAMSES</span> to model and investigate the processes that govern galaxy formation. <span class="caps">RAMSES</span> is a grid-based hydrodynamical code that follows the evolution of astrophysical fluids in a cosmological context. This allows to compute at the same time the evolution of dark matter (<span class="caps">DM</span>), gas and stars. Since recent developments, <span class="caps">RAMSES</span> features a module for radiative transfer that can be used to follow altogether the propagation of ionizing radiation the detailed ionization state of the hydrogen and helium around galaxies in&nbsp;simulations.</p>
-<p>For most of my work, I perform numerical simulations of individual resolved galaxies using the <em>zoom</em> technique. The idea is to simulate a larger cosmological volume at fairly low resolution and use extra computational power around a region of interest to reach very high resolution. This makes it possible to resolve fine structures in galaxies while still capturing the large scale structure around&nbsp;them.</p>
-<p>However, even with this technique, we cannot completely resolve the formation (or even worse, the internal dynamics) of stars, so we have to use <em>subgrid models</em> to model the small scale processes, like star formation, metal ejection by supernovae or energetic events like type <span class="caps">II</span> supernovae. It is crucial to take these mechanisms into account if we want to model correctly the interstellar medium in&nbsp;galaxies.</p>
-</div>
 <div class="section" id="escape-of-ionizing-radiation-and-bursty-star-formation">
 <h3>Escape of ionizing radiation and bursty star&nbsp;formation</h3>
 <p>One of my research endeavours is to study the amount of ionizing photons escaping the galaxy from which thy have been emitted. The current understanding of reionization is that at least at early times, small galaxies in low mass haloes were the major contributors to the global ionizing budget. It is thus crucial to assess how much radiation can escape those small&nbsp;galaxies.</p>
 <p>To study this, I run simulations focusing on small haloes (10<sup>8</sup> or 10<sup>9</sup> M<sub>☉</sub>), with very high resolution (typically around 10 pc) until <em>z</em> ~ 6. During my PhD, I showed that for such small galaxies, the star formation rate varies on timescales of typically 50 Myr. This is mainly because the star formation (<span class="caps">SF</span>) is regulated by supernova feedback: after a few tens of Myr, the most massive stars will end their lives and explode in supernovae. This will release a lot of energy and heat the surrounding gas, thus preventing further <span class="caps">SF</span> until the gas can cool again and fall on the&nbsp;galaxy.</p>
-<div class="figure align-left" style="width: 40%">
+<div class="figure align-right" style="width: 40%">
 <object data="./img/fescsfrout.svg" style="width: 95%;" type="image/svg+xml">
 Evolution of the star formation rate, gas outflow rate and escape fraction</object>
 <p class="caption">Evolution of the <span class="caps">SFR</span>, gas outflow rate and escape fraction for a 10<sup>9</sup> M<sub>☉</sub> halo.</p>
@@ -115,11 +111,15 @@ Evolution of the star formation rate, gas outflow rate and escape fraction</obje
 <p>Some animations illustrating this cycle can be found on <a class="reference external" href="bursty.html">this page</a>.</p>
 </div>
 </div>
+<div class="section" id="galaxy-black-hole-coevolution">
+<h2>Galaxy &#8212; Black Hole&nbsp;coevolution</h2>
+<p>In&nbsp;progress</p>
+</div>
 <div class="section" id="lyman-alpha-blobs">
 <h2>Lyman alpha&nbsp;blobs</h2>
 <p>Lyman-α blobs are very large, luminous, Lyman-α emitting nebulae, usually found at high redshift. While these objects denote the presence of large quantities of neutral hydrogen around galaxies (Lyman-α photons are emitted by the de-excitation of an hydrogen atom), the mechanism powering the Lyman-α emission is still&nbsp;unclear.</p>
 <p>Various scenarios have been suggested to explain the origin of this emission. Among them, I studied the idea that Lyman-α blobs are tracers of the cosmic web. In this picture, the Lyman-α radiation is produced by the infall of cosmological filaments on (group of) proto-galaxies. As the gas falls in the dark matter halo, it will radiate its gravitational energy as Lyman-α&nbsp;photons.</p>
-<div class="figure align-right" style="width: 40%">
+<div class="figure align-left" style="width: 40%">
 <object data="./img/blob.svg" style="width: 95%;" type="image/svg+xml">
 Polarization signal around a simulated |lya| blob.</object>
 <p class="caption">Polarization signal around the modeled Lyman-α&nbsp;blob.</p>
