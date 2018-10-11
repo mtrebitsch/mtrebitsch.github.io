@@ -52,6 +52,7 @@ ABOUT_ME = "I'm a post-doctoral researcher in astrophysics working within the BL
 SOCIAL = (('Twitter', 'https://twitter.com/maximetrebitsch'),
           ('Bitbucket', 'https://bitbucket.org/mtrebitsch'),
           ('GitHub', 'https://github.com/mtrebitsch'),
+          ('ResearchGate', 'https://www.researchgate.net/profile/Maxime_Trebitsch'),
 )
 DEFAULT_PAGINATION = 5
 
@@ -76,7 +77,6 @@ PLUGINS = ['render_math',
 MATH_JAX = {'mathjax_font': 'sanserif'}
 
 
-STATIC_PATHS = ['img', 'pdf', 'video', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['img', 'pdf', 'video']
 TYPOGRIFY = True
 TWITTER_USERNAME = 'maximetrebitsch'
