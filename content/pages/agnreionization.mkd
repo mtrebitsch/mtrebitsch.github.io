@@ -26,7 +26,7 @@ Assembly of the most massive halo in the [Obelisk] simulation: the left panel sh
 
 Propagation of the ionization fronts in the [Obelisk] simulation (brighter means denser gas, and the colour indicate where the gas is ionized):
 
-{% video ./video/iondens2.mp4 600 600 %}
+{% video ./video/Obelisk_iondens.mp4 600 600 %}
 
 
 [poster]: <http://www.maximetrebitsch.fr/pdf/201905iaus352.pdf> "Poster link"
