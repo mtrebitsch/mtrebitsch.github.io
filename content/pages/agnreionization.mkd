@@ -12,7 +12,7 @@ This page currently gathers material related to a [poster] presented a the June 
 
 Animation of the last major merger happening to a ~ 10<sup>10</sup> M<sub>&#9737;</sub> galaxy. The left panel shows the gas density, and the right panel shows the stellar distribution. In both cases, brighter means denser.
 
-{% video ./video/AGNRT_merger_z.mp4 1024 512 %}
+{% video ./video/AGNRT_merger_z.mp4 800 400 %}
 
 ***
 
@@ -22,13 +22,11 @@ The animations below are coming from the very first results of the [Obelisk] sim
 
 Assembly of the most massive halo in the [Obelisk] simulation: the left panel shows the gas density (brighter is denser), and the right panel shows the temperature (blue is cold gas, white-pink is photoionized gas, and red is hot shocked gas)
 
-{% video ./video/Obelisk_MostMassiveLarge.mp4 1024 512 %}
+{% video ./video/Obelisk_MostMassiveLarge.mp4 800 400 %}
 
 Propagation of the ionization fronts in the [Obelisk] simulation (brighter means denser gas, and the colour indicate where the gas is ionized):
 
-{% video ./video/iondens2.mp4 512 512 %}
-
-The 
+{% video ./video/iondens2.mp4 600 600 %}
 
 
 [poster]: <http://www.maximetrebitsch.fr/pdf/201905iaus352.pdf> "Poster link"
