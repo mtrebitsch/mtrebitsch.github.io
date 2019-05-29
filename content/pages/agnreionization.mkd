@@ -1,0 +1,36 @@
+title: The contribution of AGN to the high redshift ionizing UV background
+URL: agnreionization.html
+Save_as: agnreionization.html
+---
+
+This page currently gathers material related to a [poster] presented a the June 2019 *[IAU Symposium 352 (Uncovering early galaxy evolution in the ALMA and JWST era)][iau352]* in Viana do Castelo.
+
+
+***
+
+# Zoom on a massive galaxy at *z* ~ 6
+
+Animation of the last major merger happening to a ~ 10<sup>10</sup> M<sub>&#9737;</sub> galaxy. The left panel shows the gas density, and the right panel shows the stellar distribution. In both cases, brighter means denser.
+
+{% video ./video/AGNRT_merger_z.mp4 1024 512 %}
+
+***
+
+# Obelisk simulation
+
+The animations below are coming from the very first results of the [Obelisk] simulation, a high-resolution RHD simulation of the assembly of a high redshift protocluster following the reionization of its local environment.
+
+Assembly of the most massive halo in the [Obelisk] simulation: the left panel shows the gas density (brighter is denser), and the right panel shows the temperature (blue is cold gas, white-pink is photoionized gas, and red is hot shocked gas)
+
+{% video ./video/Obelisk_MostMassiveLarge.mp4 1024 512 %}
+
+Propagation of the ionization fronts in the [Obelisk] simulation (brighter means denser gas, and the colour indicate where the gas is ionized):
+
+{% video ./video/iondens2.mp4 512 512 %}
+
+The 
+
+
+[poster]: <http://www.maximetrebitsch.fr/pdf/201905iaus352.pdf> "Poster link"
+[iau352]: <https://www.iaugalaxies2019.com/> "Uncovering early galaxy evolution in the ALMA and JWST era"
+[Obelisk]: <> "More info soon!"
