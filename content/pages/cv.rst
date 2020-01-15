@@ -2,25 +2,42 @@ Curriculum Vitæ
 ###############
 :slug: cv
 
-This curriculum is also available in `PDF <{filename}/pdf/cv.pdf>`_.
+.. This curriculum is also available in `PDF <{filename}/pdf/cv.pdf>`_.
 
 Research interests
 ==================
 * Galaxy formation
-* Reionisation
+* Reionization
+* High redshift universe
 * Physical modelling of star formation and feedback
 * Circum-galactic medium
 * Numerical simulations
 
-Current position
-================
+Research positions
+=====================
+2019 – 20??
+    `STRUCTURES`_ fellow in Heidelberg, jointly at the `Max-Planck-Institut für Astronomie`_ and the `Zentrum für Astronomie`_ with Annalisa Pillepich, Ralf Klessen and Simon Glover.
 2016 – 2019
     Postdoctoral researcher at the `Institut d'Astrophysique de Paris`_, working in the `BLACK`_ ERC project led by `Marta Volonteri`_.
+2012 – 2016
+    PhD student at the `Observatoire de Lyon`_, with Jérémy Blaizot. Download my thesis `here <https://tel.archives-ouvertes.fr/tel-01402895>`_.
 
+Undergrad research
+----------------------
+April – July 2012
+    Master 2 thesis at the `Observatoire de Lyon`_, focused on polarized radiative transfer of Lyman-alpha line in Lyman-alpha "blobs", under the supervision of Jérémy Blaizot and Anne Verhamme;
+
+May – July 2011
+    Master 1 thesis at `Oxford University`_, I worked under the supervision of Pedro Ferreira on forecasting cosmological parameters from weak lensing;
+
+June – July 2010
+    Licence 3 thesis at the `Laboratoire de Physique des Lasers`_, Université Paris Nord (Paris&nbsp;XIII), first actual "lab" experience, I worked with Laurent Vernac and Étienne Maréchal on frequency locking of a laser for cold atoms physics.
+
+    
 Education
 =========
 2012 – 2016
-    Ph. D. student at the `Observatoire de Lyon`_, with Jérémy Blaizot. Download my thesis `here <https://tel.archives-ouvertes.fr/tel-01402895>`_.
+    PhD in Physics at the Université de Lyon.
 
 2010 – 2012
      Master's Degree in Physics at the `ENS Lyon`_, with honours
@@ -35,24 +52,12 @@ Education
     Baccalauréat S (high school diploma in science), with honours.
 
 
-Experience
-==========
 Teaching
---------
+==========
+
 * Practical classes for the *Agrégation de Physique* at the `ENS Lyon`_ (general physics labs)
 * *Physical optics* for second-year university students, labs and problem classes, at the `Université Claude Bernard Lyon 1`_
 
-
-Undergrad research
-------------------
-April – July 2012
-     Internship at the `Observatoire de Lyon`_, focused on polarized radiative transfer of Lyman-alpha line in Lyman-alpha "blobs", under the supervision of Jérémy Blaizot and Anne Verhamme;
-
-May – July 2011
-   Internship at `Oxford University`_, I worked under the supervision of Pedro Ferreira on forecasting cosmological parameters from weak lensing;
-
-June – July 2010
-   Internship at the `Laboratoire de Physique des Lasers`_, Université Paris Nord (Paris&nbsp;XIII), first actual "lab" experience, I worked with Laurent Vernac and Étienne Maréchal on frequency locking of a laser for cold atoms physics.
 
   
 Outreach
@@ -67,78 +72,92 @@ Publications
 ============
 Articles
 --------
-Escape of ionizing radiation from high-redshift dwarf galaxies: role of AGN feedback
-    | *Maxime Trebitsch*, Marta Volonteri, Yohan Dubois, Piero Madau
-    | `Monthly Notices of the Royal Astronomical Society, vol 478, Issue 4, 21 August 2018 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2018MNRAS.478.5607T&link_type=ABSTRACT>`_
+#. RASCAS: RAdiation SCattering in Astrophysical Simulations
+    | Léo Michel-Dansac, Jérémy Blaizot, Thibaut Garel, Anne Verhamme, Taysun Kimm, *Maxime Trebitsch*
+    | Accepted in Astronomy & Astrophysics
 
-High-redshift Galaxies and Black Holes Detectable with the JWST: A Population Synthesis Model from Infrared to X-Rays
+#. Black hole obscuration and duty-cycles mediated by AGN feedback in high-redshift galaxies
+    | *Maxime Trebitsch*, Marta Volonteri, Yohan Dubois
+    | `Monthly Notices of the Royal Astronomical Society, vol 487, Issue 1, July 2019, <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2019MNRAS.487..819T&link_type=ABSTRACT>`_
+
+#. Super-Eddington accretion and feedback from the first massive seed black holes 
+    | John Regan, Turlough Downes, Marta Volonteri, Ricarda Beckmann, Alessandro Lupi, *Maxime Trebitsch*, Yohan Dubois
+    | `Monthly Notices of the Royal Astronomical Society, vol 486, Issue 3, July 2019, <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2019MNRAS.486.3892R&link_type=ABSTRACT>`_
+
+#. Escape of ionizing radiation from high-redshift dwarf galaxies: role of AGN feedback
+    | *Maxime Trebitsch*, Marta Volonteri, Yohan Dubois, Piero Madau
+    | `Monthly Notices of the Royal Astronomical Society, vol 478, Issue 4, August 2018 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2018MNRAS.478.5607T&link_type=ABSTRACT>`_
+
+#. High-redshift Galaxies and Black Holes Detectable with the JWST: A Population Synthesis Model from Infrared to X-Rays
     | Marta Volonteri, Amy Reines, Hakim Atek, Daniel P. Stark and *Maxime Trebitsch*
     | `The Astrophysical Journal, vol 949, Number 2 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017ApJ...849..155V&link_type=ABSTRACT>`_
 
-Fluctuating feedback-regulated escape fraction of ionizing radiation in low-mass, high-redshift galaxies
+#. Fluctuating feedback-regulated escape fraction of ionizing radiation in low-mass, high-redshift galaxies
     | *Maxime Trebitsch*, Jérémy Blaizot, Joakim Rosdahl, Julien Devriendt and Adrianne Slyz
-    | `Monthly Notices of the Royal Astronomical Society, vol 470, Issue 1, 1 September 2017 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017MNRAS.470..224T&link_type=ABSTRACT>`_
+    | `Monthly Notices of the Royal Astronomical Society, vol 470, Issue 1, September 2017 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017MNRAS.470..224T&link_type=ABSTRACT>`_
 
-Lyman-α blobs: polarization arising from cold accretion
+#. Lyman-α blobs: polarization arising from cold accretion
     | *Maxime Trebitsch*, Anne Verhamme, Jérémy Blaizot and Joakim Rosdahl
     | `Astronomy & Astrophysics, Volume 593, id.A122 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016A&A...593A.122T&link_type=ABSTRACT>`_
  
-Ultralight axions: Degeneracies with massive neutrinos and forecasts for future cosmological observations
+#. Ultralight axions: Degeneracies with massive neutrinos and forecasts for future cosmological observations
     | David J. E. Marsh, Edward Macaulay, *Maxime Trebitsch* and Pedro G. Ferreira
     | `Physical Review D, vol. 85, Issue 10, id. 103514 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012PhRvD..85j3514M&link_type=ABSTRACT>`_
 
 Conference proceedings
 ----------------------
-Effect Of Feedback On The Escape Of Ionizing Radiation From High-Z Galaxies
+#. Effect Of Feedback On The Escape Of Ionizing Radiation From High-Z Galaxies
     | *Maxime Trebitsch*, Jérémy Blaizot, Joakim Rosdahl, Julien Devriendt and Adrianne Slyz
     | `Galaxy Evolution Across Time, Proceedings of a conference held 12-16 June, 2017 in Paris <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2017geat.confE..49T&link_type=ABSTRACT>`_
 
-Feedback regulated escape of ionising radiation from high redshift galaxies
+#. Feedback regulated escape of ionising radiation from high redshift galaxies
     | *Maxime Trebitsch* and Jérémy Blaizot
     | `SF2A-2016: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp.407-410 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016sf2a.conf..407T&link_type=ABSTRACT>`_
 
-
-Modeling small galaxies during the Epoch of Reionisation
+#. Modeling small galaxies during the Epoch of Reionisation
     | *Maxime Trebitsch*, Jérémy Blaizot and Joakim Rosdahl
     | `SF2A-2015: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp.105-108 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015sf2a.conf..105T&link_type=ABSTRACT>`_
 
-Lyman-α blobs: polarization arising from cold accretion
+#. Lyman-α blobs: polarization arising from cold accretion
     | *Maxime Trebitsch*, Anne Verhamme, Jérémy Blaizot and Joakim Rosdahl
     | `SF2A-2014: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, pp.375-377 <http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014sf2a.conf..375T&link_type=ABSTRACT>`_
 
 
-Conferences
-===========
-Talks
------
-* RAMSES User Meeting, 2018, Lyon
-* *Escape of Lyman radiation from galactic labyrinths*, 2018, Crete
-* *Massive black holes in evolving galaxies: from quasars to quiescence*, 34th IAP Conference, 2018, Paris
-* *Rise & Shine: galaxies in the Epoch of Reionization*, 2018, Strasbourg
-* *Symposium S3*, European Week of Astronomy and Space Science, 2018, Liverpool
-* YAGN Meeting, 2017, Teruel
-* RAMSES User Meeting, 2017, Nice
-* RAMSES User Meeting, 2016, Paris
-* Journées SF2A (French Astronomy Meeting), 2016, Lyon.
-* RAMSES User Meeting, 2015, Oxford.
-* Journées SF2A (French Astronomy Meeting), 2015, Toulouse.
+.. Conferences
+.. ===========
+.. Talks
+.. -----
+.. * RAMSES User Meeting, 2018, Lyon
+.. * *Escape of Lyman radiation from galactic labyrinths*, 2018, Crete
+.. * *Massive black holes in evolving galaxies: from quasars to quiescence*, 34th IAP Conference, 2018, Paris
+.. * *Rise & Shine: galaxies in the Epoch of Reionization*, 2018, Strasbourg
+.. * *Symposium S3*, European Week of Astronomy and Space Science, 2018, Liverpool
+.. * YAGN Meeting, 2017, Teruel
+.. * RAMSES User Meeting, 2017, Nice
+.. * RAMSES User Meeting, 2016, Paris
+.. * Journées SF2A (French Astronomy Meeting), 2016, Lyon.
+.. * RAMSES User Meeting, 2015, Oxford.
+.. * Journées SF2A (French Astronomy Meeting), 2015, Toulouse.
+.. 
+.. Seminars
+.. --------
+.. * ICAP Seminar, 2016, Paris
+.. * Galaxy Evolution Seminar, 2016, Oxford.
+.. 
+.. 
+.. Posters
+.. -------
+.. * `Escape of ionizing radiation from high-redshift dwarf galaxies: role of AGN feedback <{filename}/pdf/201801saasfee.pdf>`_; *48 th Saas-Fee Winter School*, 2018, Saas-Fee
+.. * `Effect of feedback on the escape of ionizing radiation from high-z galaxies <{filename}/pdf/201706prague.pdf>`_; *EWASS*, 2017, Prague.
+.. * `Effect of feedback on the escape of ionizing radiation from high-z galaxies <{filename}/pdf/201706prague.pdf>`_; *Galaxy Evolution Across Time*, 2017, Paris.
+.. * `Galaxies reionising the universe: light from the first objects <{filename}/pdf/201506groningen.pdf>`_; *Exploring the Universe with JWST*, 2015, ESTEC.
+.. * `Galaxies reionising the universe: light from the first objects <{filename}/pdf/201506groningen.pdf>`_; *First stars, first galaxies, first black holes*, 2015, Gröningen.
+.. * `Lyman-α blobs: polarization arising from cold accretion <{filename}/pdf/201406paris.pdf>`_; *Journées SF2A (French Astronomy Meeting)*, 2014, Paris.
+..     
 
-Seminars
---------
-* ICAP Seminar, 2016, Paris
-* Galaxy Evolution Seminar, 2016, Oxford.
-
-
-Posters
--------
-* `Escape of ionizing radiation from high-redshift dwarf galaxies: role of AGN feedback <{filename}/pdf/201801saasfee.pdf>`_; *48 th Saas-Fee Winter School*, 2018, Saas-Fee
-* `Effect of feedback on the escape of ionizing radiation from high-z galaxies <{filename}/pdf/201706prague.pdf>`_; *EWASS*, 2017, Prague.
-* `Effect of feedback on the escape of ionizing radiation from high-z galaxies <{filename}/pdf/201706prague.pdf>`_; *Galaxy Evolution Across Time*, 2017, Paris.
-* `Galaxies reionising the universe: light from the first objects <{filename}/pdf/201506groningen.pdf>`_; *Exploring the Universe with JWST*, 2015, ESTEC.
-* `Galaxies reionising the universe: light from the first objects <{filename}/pdf/201506groningen.pdf>`_; *First stars, first galaxies, first black holes*, 2015, Gröningen.
-* `Lyman-α blobs: polarization arising from cold accretion <{filename}/pdf/201406paris.pdf>`_; *Journées SF2A (French Astronomy Meeting)*, 2014, Paris.
-    
-
+.. _STRUCTURES: https://structures.uni-heidelberg.de/
+.. _Max-Planck-Institut für Astronomie: https://www.mpia.de/en/
+.. _Zentrum für Astronomie: http://www.ita.uni-heidelberg.de/index.shtml?lang=en
 .. _Institut d'Astrophysique de Paris: http://www.iap.fr
 .. _BLACK: http://blackerc.wordpress.com/
 .. _Marta Volonteri: http://www2.iap.fr/users/volonter/

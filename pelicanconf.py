@@ -33,13 +33,13 @@ PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
-    ('Research', 'research.html'),
+    # ('Research', 'research.html'),
     ('CV', 'cv.html'),
     ('Contact', 'contact.html'),
 )
 
 AVATAR = "img/maximetrebitsch.jpg"
-ABOUT_ME = "I'm a post-doctoral researcher in astrophysics working within the BLACK project at the IAP in Paris, interested in high-redshift galaxy formation."
+ABOUT_ME = "I am a post-doctoral researcher in astrophysics working on high-redshift galaxy formation and reionization in Heidelberg (MPIA/ZAH)."
 
 
 # # Blogroll
