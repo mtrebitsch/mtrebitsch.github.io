@@ -173,7 +173,7 @@ figure.floatcenter, .align-center {
 
 #banner {
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: top center;
     background-attachment: scroll;
     background-size: cover;
     background-color: #C4C4C4;
